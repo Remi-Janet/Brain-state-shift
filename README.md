@@ -1,6 +1,6 @@
 # Brain-state-shift
 
-This repository includes information relative to the project: Body mass index-dependent shifts along large-scale gradients in human cortical organization explain dietary regulatory success
+This repository includes information relative to the project: Body mass index-dependent shifts along large-scale gradients in human cortical organization explain dietary regulatory success.
 The folder SubjectContrasts includes all participants' contrasts for the Natural (NC=contrast_0001.nii) and Health condition (HC=contrast_0003.nii).
 The folder GradientsMaps includes the gradients maps downloaded from the Neurovault repository: https://neurovault.org/collections/1598/ 
 
