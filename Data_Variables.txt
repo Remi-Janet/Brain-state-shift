@@ -1,0 +1,27 @@
+subjID = subject ID
+Study = Study ID
+Age
+gender
+BMI
+HR = weight attributed to health in the natural condition (NC)
+TR = weight attributed to taste in the focus on health condition (HC)
+HCHR = how much more a participant considered a food’s healthiness in HC
+HCTR = how much less a participant considered a food’s tastiness in HC
+NCpct = percentage of healthy choices in NC
+HCpct = percentage of healthy choices in HC
+HCvsNC = difference of the number of healthy choices between HC and NC
+RS = regulatory success
+RSNC = natural dietary  success
+NCG1 = similarity of the contrast map NC with gradient 1
+HCG1 = similarity of the contrast map HC with gradient 1
+NCG2 = similarity of the contrast map NC with gradient 2
+HCG2 = similarity of the contrast map HC with gradient 2
+NCG3 = similarity of the contrast map NC with gradient 3
+HCG3 = similarity of the contrast map HC with gradient 3
+DeucHCvsNC = Euclidian Distance between HC and NC along the first three gradients
+HCvsNCG1 = distance between HC and NC along the first gradient
+HCvsNCG2 = distance between HC and NC along the second gradient
+HCvsNCG3 = distance between HC and NC along the thrid gradient
+BMItercile = tercile split of the BMI
+DeucHCvsNC_G4 = Euclidian Distance between HC and NC along the first four gradients
+DeucHCvsNC_G5 = Euclidian Distance between HC and NC along the five gradients
