@@ -1,2 +1,7 @@
 Includes all the subject contrast images for both the natural (NC) and regulated (HC) conditions.
-The folder includes two contrasts, contrast_0001.nii which corresponds to the Natural condition (NC) and contrast_0003.nii which corresponds to the health condition (HC).
+The folder includes two contrasts, contrast_0001.nii which corresponds to the Natural condition (NC), and contrast_0003.nii which corresponds to the health condition (HC).
+
+AT_SubjectsContrasts corresponds to the subjects' contrasts of the first dataset
+CH01-28_SubjectsContrasts corresponds to the subjects' contrasts of the second dataset (for subjects 1 to 28)
+CH29-56_SubjectsContrasts corresponds to the subjects' contrasts of the second dataset (for subjects 29 to 56)
+HP_SubjectsContrasts corresponds to the subjects' contrasts of the third dataset
