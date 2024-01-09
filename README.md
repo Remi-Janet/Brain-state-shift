@@ -4,7 +4,7 @@ This repository includes information relative to the project: Body mass index-de
 The folder SubjectContrasts includes all participants' contrasts for the Natural (NC=contrast_0001.nii) and Health conditions (HC=contrast_0003.nii).
 The folder GradientsMaps includes the gradients maps downloaded from the Neurovault repository: https://neurovault.org/collections/1598/.
 The folder Univariate Analysis includes the results of the univariate analysis conducted with SPM (the t-test modulated by RS).
-Data.csv includes the summary data used to perform the analysis.
+Data.csv includes the summary data used to perform the analysis. The variable names are explained in the file Data_Variable.txt
 Finally, the file "GLM_LOSO_Permutation.m" corresponds to the main analysis script and the GLM_analysis.html corresponds to the output of the Rstat report to plot the main effect, interaction and perform the slope analysis.
 
 Requirements:
