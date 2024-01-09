@@ -9,7 +9,7 @@ Finally, the file "GLM_LOSO_Permutation.m" corresponds to the main analysis scri
 
 Requirements:
 - Matlab 2021b (for the GLM, leave-one-subject-out, and permutation test analysis)
-- R version 4.2.2 (to plot the main effect and interaction and the slope analysis).
+- R version 4.2.2 (to plot the main effect and interaction and the slope analysis):
 package(plyr);
 package(tidyverse);
 package(lme4);
