@@ -1,0 +1,13 @@
+subjID = subject ID
+Study = Study ID
+Age = age
+sex = sex at birth
+BMI = Body Mass Index
+βHC*HR = how much more a participant considered a food’s healthiness in HC
+βHC*TR = how much less a participant considered a food’s tastiness in HC
+RS = regulatory success
+NDS = natural dietary  success
+ED_HCvsNC = Euclidian Distance between HC and NC along the first three gradients
+ΔG1 = distance between HC and NC along the first gradient
+ΔG2 = distance between HC and NC along the second gradient
+ΔG3 = distance between HC and NC along the third gradient
